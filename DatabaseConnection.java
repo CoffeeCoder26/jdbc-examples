@@ -1,4 +1,4 @@
-// Database Connection In JDBC
+// Database Connection In Java
 package jdbcdemo;
 
 import java.sql.*;
