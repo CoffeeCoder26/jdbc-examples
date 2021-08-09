@@ -7,3 +7,5 @@
 ##Screenshot before deleting data
 ![Screenshot (35)](https://user-images.githubusercontent.com/60415348/128708698-8b3dc88b-eecf-4c22-8408-ecdf9c4381e2.png)
 ##Screenshot after deleting data
+![Screenshot (36)](https://user-images.githubusercontent.com/60415348/128708929-be4cc332-29f9-4a7f-ad17-c1856b89a5ee.png)
+
